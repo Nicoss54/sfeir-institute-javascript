@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "01-variables": "apps/01-variables",
-    "01-variables-solution": "apps/01-variables-solution"
+    "01-variables-solution": "apps/01-variables-solution",
+    "02-closure": "apps/02-closure",
+    "02-closure-solution": "apps/02-closure-solution"
   }
 }

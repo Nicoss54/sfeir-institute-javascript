@@ -18,5 +18,8 @@ module.exports = {
     'no-var': 0,
     'prefer-const': 0,
     'vars-on-top': 0,
+    'no-loop-func': 0,
+    'func-names': 0,
+    'prefer-arrow-callback': 0,
   },
 };
