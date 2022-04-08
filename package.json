@@ -1,0 +1,26 @@
+{
+  "name": "sfeir-institute-javascript",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "run-exercice": "nx serve"
+  },
+  "private": true,
+  "devDependencies": {
+    "@nrwl/cli": "13.10.0",
+    "@nrwl/js": "13.10.0",
+    "@nrwl/workspace": "13.10.0",
+    "@types/node": "16.11.7",
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nx": "13.10.0",
+    "prettier": "^2.6.2",
+    "typescript": "~4.6.2",
+    "vite": "^2.9.0"
+  }
+}

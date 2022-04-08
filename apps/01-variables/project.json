@@ -1,0 +1,13 @@
+{
+  "root": "apps/01-variables",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "apps/01-variables"
+      }
+    }
+  }
+}

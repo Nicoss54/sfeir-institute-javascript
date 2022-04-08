@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "FRIZZARIN",
+    "nrwl"
+  ],
+  "eslint.workingDirectories": [
+    ".eslintrc.js"
+  ],
+  "prettier.configPath": ".prettierrc",
+  "prettier.prettierPath": "./node_modules/prettier",
+  "prettier.ignorePath": ".prettierignore"
+}
