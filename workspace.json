@@ -4,6 +4,8 @@
     "01-variables": "apps/01-variables",
     "01-variables-solution": "apps/01-variables-solution",
     "02-closure": "apps/02-closure",
-    "02-closure-solution": "apps/02-closure-solution"
+    "02-closure-solution": "apps/02-closure-solution",
+    "03-hoisting": "apps/03-hoisting",
+    "03-hoisting-solution": "apps/03-hoisting-solution"
   }
 }

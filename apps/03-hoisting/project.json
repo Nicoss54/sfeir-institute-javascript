@@ -1,0 +1,13 @@
+{
+  "root": "apps/03-hoisting",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "apps/03-hoisting"
+      }
+    }
+  }
+}
