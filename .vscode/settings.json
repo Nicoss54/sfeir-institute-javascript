@@ -2,12 +2,15 @@
   "cSpell.words": [
     "FRIZZARIN",
     "Hoho",
-    "nrwl"
+    "nrwl",
+    "Sfeir",
+    "tailwindcss"
   ],
   "eslint.workingDirectories": [
     ".eslintrc.js"
   ],
   "prettier.configPath": ".prettierrc",
   "prettier.prettierPath": "./node_modules/prettier",
-  "prettier.ignorePath": ".prettierignore"
+  "prettier.ignorePath": ".prettierignore",
+  "css.validate": false
 }

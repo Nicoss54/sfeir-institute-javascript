@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full w-full">
 
   <head>
     <meta charset="UTF-8" />
@@ -9,20 +9,26 @@
   </head>
 
   <body>
-    <div id="app">
-      <div id="help">Des aides vont s'afficher ici</div>
-      <div class="flex flex-column">
+    <header style="background-color: #1d1d2b" class="mb-3 h-28 flex items-center px-4 relative">
+      <img src="/images/sfeir-logo.svg" alt="Sfeir logo" class="h-9" height="2.25rem" />
+      <span class="absolute font-semibold text-3xl text-white left-1/2 -translate-x-1/2">Welcome to
+        Sfeir Institute Javascript</span>
+    </header>
+    <div id="app" class="px-4">
+      <div id="help" class="mb-3">Les aides vont s'afficher ici</div>
+      <div class="flex flex-col space-y-2">
         <p class="flex">
-          <label for="lastName">Nom de famille</label>
-          <input id="lastName" type="text" name="lastName" />
+          <label class="w-1/12" for="lastName">Nom de famille</label>
+          <input class="border-2 border-solid border-slate-800 rounded-xl" id="lastName" type="text" name="lastName" />
         </p>
         <p class="flex">
-          <label for="firstName">Prénom</label>
-          <input id="firstName" type="text" name="firstName" />
+          <label class="w-1/12" for="firstName">Prénom</label>
+          <input id="firstName" class="border-2 border-solid border-slate-800 rounded-xl" type="text"
+                 name="firstName" />
         </p>
         <p class="flex">
-          <label for="age">Age</label>
-          <input id="age" type="text" name="age" />
+          <label class="w-1/12" for="age">Age</label>
+          <input id="age" class="border-2 border-solid border-slate-800 rounded-xl" type="text" name="age" />
         </p>
       </div>
     </div>
