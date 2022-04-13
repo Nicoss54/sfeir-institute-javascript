@@ -1,17 +1,18 @@
 module.exports = {
+  root: true,
   env: {
     browser: true,
     es2021: true,
+    node: true,
   },
-  extends: ['airbnb-base', 'prettier'],
-  parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  plugins: ['@typescript-eslint'],
+  plugins: ['@nrwl/nx', 'prettier'],
+  extends: ['prettier'],
   rules: {
-    semi: ['error', 'always'],
+    'prettier/prettier': 'error',
     'max-lines': ['error', 120],
     'object-curly-spacing': ['error', 'always'],
     'array-bracket-spacing': ['error', 'never'],

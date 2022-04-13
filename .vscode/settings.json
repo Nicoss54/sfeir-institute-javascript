@@ -4,7 +4,8 @@
     "Hoho",
     "nrwl",
     "Sfeir",
-    "tailwindcss"
+    "tailwindcss",
+    "vitest"
   ],
   "eslint.workingDirectories": [
     ".eslintrc.js"

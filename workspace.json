@@ -6,6 +6,8 @@
     "02-closure": "apps/02-closure",
     "02-closure-solution": "apps/02-closure-solution",
     "03-hoisting": "apps/03-hoisting",
-    "03-hoisting-solution": "apps/03-hoisting-solution"
+    "03-hoisting-solution": "apps/03-hoisting-solution",
+    "04-object": "apps/04-object",
+    "04-object-solution": "apps/04-object-solution"
   }
 }
