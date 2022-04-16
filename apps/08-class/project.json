@@ -1,0 +1,20 @@
+{
+  "root": "apps/08-class",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "apps/08-class"
+      }
+    },
+    "test": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vitest",
+        "cwd": "apps/08-class"
+      }
+    }
+  }
+}
