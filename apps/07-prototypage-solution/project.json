@@ -1,0 +1,20 @@
+{
+  "root": "apps/07-prototypage-solution",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "apps/07-prototypage-solution"
+      }
+    },
+    "test": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vitest",
+        "cwd": "apps/07-prototypage-solution"
+      }
+    }
+  }
+}
