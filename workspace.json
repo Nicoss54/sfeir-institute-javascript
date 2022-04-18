@@ -22,6 +22,8 @@
     "10-asynchrone": "apps/10-asynchrone",
     "10-asynchrone-solution": "apps/10-asynchrone-solution",
     "11-generator": "apps/11-generator",
-    "11-generator-solution": "apps/11-generator-solution"
+    "11-generator-solution": "apps/11-generator-solution",
+    "12-symbol": "apps/12-symbol",
+    "12-symbol-solution": "apps/12-symbol-solution"
   }
 }

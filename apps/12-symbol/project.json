@@ -1,0 +1,20 @@
+{
+  "root": "apps/12-symbol",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "apps/12-symbol"
+      }
+    },
+    "test": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vitest",
+        "cwd": "apps/12-symbol"
+      }
+    }
+  }
+}
