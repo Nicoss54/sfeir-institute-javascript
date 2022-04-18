@@ -15,7 +15,9 @@
     "06-destructuring-solution": "apps/06-destructuring-solution",
     "07-prototypage": "apps/07-prototypage",
     "07-prototypage-solution": "apps/07-prototypage-solution",
-    "8-class": "apps/08-class",
-    "8-class-solution": "apps/08-class-solution"
+    "08-class": "apps/08-class",
+    "08-class-solution": "apps/08-class-solution",
+    "09-array": "apps/09-array",
+    "09-array-solution": "apps/09-array-solution"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "root": "apps/09-array",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "apps/09-array"
+      }
+    },
+    "test": {
+      "executor": "@nrwl/workspace:run-commands",
+      "options": {
+        "command": "vitest",
+        "cwd": "apps/09-array"
+      }
+    }
+  }
+}
