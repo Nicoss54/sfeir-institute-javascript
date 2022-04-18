@@ -18,6 +18,8 @@
     "08-class": "apps/08-class",
     "08-class-solution": "apps/08-class-solution",
     "09-array": "apps/09-array",
-    "09-array-solution": "apps/09-array-solution"
+    "09-array-solution": "apps/09-array-solution",
+    "10-asynchrone": "apps/10-asynchrone",
+    "10-asynchrone-solution": "apps/10-asynchrone-solution"
   }
 }
