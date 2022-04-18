@@ -5,7 +5,7 @@
 import { afterAll, beforeAll, describe, expect, test } from 'vitest';
 import { AsynchronousSessionStorage } from './session-storage';
 
-describe('asynchromisme.ts', () => {
+describe('ASYNCHRONE', () => {
   let sessionStorage;
 
   beforeAll(() => {

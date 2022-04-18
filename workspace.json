@@ -20,6 +20,8 @@
     "09-array": "apps/09-array",
     "09-array-solution": "apps/09-array-solution",
     "10-asynchrone": "apps/10-asynchrone",
-    "10-asynchrone-solution": "apps/10-asynchrone-solution"
+    "10-asynchrone-solution": "apps/10-asynchrone-solution",
+    "11-generator": "apps/11-generator",
+    "11-generator-solution": "apps/11-generator-solution"
   }
 }

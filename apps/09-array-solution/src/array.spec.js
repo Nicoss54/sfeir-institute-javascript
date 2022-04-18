@@ -8,7 +8,7 @@ import {
   transformArrayOnObject,
 } from './array';
 
-describe('Array', () => {
+describe('ARRAY', () => {
   test('must create an array of the first ten number', () => {
     expect(createArray()).toBeDefined();
     expect(createArray().length).toEqual(10);
